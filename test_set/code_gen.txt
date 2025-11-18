@@ -1,0 +1,9 @@
+Write the following cobol program:
+{instructions}
+
+Write only the cobol program itself.  Do not write any explanations or comments.
+write the code between 2 ``` 
+
+
+
+
